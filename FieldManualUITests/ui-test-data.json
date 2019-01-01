@@ -1,0 +1,128 @@
+ [{
+  "title": "Category 1",
+  "initial": 0,
+  "intervalType": 0,
+  "intervalAmount": 1,
+  "daysElapsed": 0,
+  "sessionComplete": false,
+  "guiSessionCount": 0,
+  "exercises": [{
+                "title": "Exercise 1.1"
+                },
+                {
+                "title": "Exercise 1.2"
+                },
+                {
+                "title": "Exercise 1.3"
+                },
+                {
+                "title": "Exercise 1.4"
+                },
+                {
+                "title": "Exercise 1.5"
+                }
+                ]
+  },
+  {
+  "title": "Category 2",
+  "initial": 0,
+  "intervalType": 0,
+  "intervalAmount": 1,
+  "daysElapsed": 0,
+  "sessionComplete": false,
+  "guiSessionCount": 0,
+  "exercises": [{
+                "title": "Exercise 2.1"
+                },
+                {
+                "title": "Exercise 2.2"
+                },
+                {
+                "title": "Exercise 2.3"
+                },
+                {
+                "title": "Exercise 2.4"
+                },
+                {
+                "title": "Exercise 2.5"
+                },
+                {
+                "title": "Exercise 2.6"
+                },
+                {
+                "title": "Exercise 2.7"
+                },
+                {
+                "title": "Exercise 2.8"
+                },
+                {
+                "title": "Exercise 2.9"
+                },
+                {
+                "title": "Exercise 2.10"
+                },
+                {
+                "title": "Exercise 2.11"
+                },
+                {
+                "title": "Exercise 2.12"
+                },
+                {
+                "title": "Exercise 2.13"
+                },
+                {
+                "title": "Exercise 2.14"
+                },
+                {
+                "title": "Exercise 2.15"
+                }
+                ]
+  },
+  {
+  "title": "Category 3",
+  "initial": 0,
+  "intervalType": 0,
+  "intervalAmount": 1,
+  "daysElapsed": 0,
+  "sessionComplete": false,
+  "guiSessionCount": 0,
+  "exercises": [{
+                "title": "Exercise 3.1"
+                },
+                {
+                "title": "Exercise 3.2"
+                },
+                {
+                "title": "Exercise 3.3"
+                },
+                {
+                "title": "Exercise 3.4"
+                },
+                {
+                "title": "Exercise 3.5"
+                }
+                ]
+  },
+  {
+  "title": "Category 4",
+  "initial": 0,
+  "intervalType": 0,
+  "intervalAmount": 1,
+  "daysElapsed": 0,
+  "sessionComplete": false,
+  "guiSessionCount": 0,
+  "exercises": [{
+                "title": "Exercise 4.1"
+                },
+                {
+                "title": "Exercise 4.2"
+                },
+                {
+                "title": "Exercise 4.3"
+                },
+                {
+                "title": "Exercise 4.4"
+                }
+                ]
+  }
+  ]

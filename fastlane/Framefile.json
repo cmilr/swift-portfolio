@@ -1,0 +1,43 @@
+{
+   "device_frame_version": "latest",
+   "default": {
+      "keyword": {
+         "font": "./fonts/Arial-Rg.otf"
+      },
+      "title": {
+         "font": "./fonts/Arial-Th.otf",
+         "color": "#545454"
+      },
+      "background": "./background.jpg",
+      "show_complete_frame": true,
+      "stack_title" : false,
+      "title_below_image": true
+   },
+
+   "data": [
+            {
+            "filter": "Brainstorming",
+            "keyword": {
+            "color": "#d21559"
+            }
+            },
+            {
+            "filter": "Organizing",
+            "keyword": {
+            "color": "#feb909"
+            }
+            },
+            {
+            "filter": "Sharing",
+            "keyword": {
+            "color": "#aa4dbc"
+            }
+            },
+            {
+            "filter": "Styling",
+            "keyword": {
+            "color": "#31bb48"
+            }
+            }
+            ]
+}
