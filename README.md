@@ -1,6 +1,6 @@
 # Dalilah-Public
 
-<img src="promo/icon_rounded_corner@3x.png" width="125
+<img src="promo/icon_rounded_corner@3x.png" width="180
 " title="Dalilah Logo" align="right">***Hello, and thanks for stopping by!*** This repo contains the majority of source code for my iOS app **Dalilah**—a smart personal assistant for musicians, students, and other life-long learners.
 
 Due to Dalilah's commercial nature—and nearness to release—I've chosen to make the working repo private, but hopefully I've left enough here to adequately illustrate my coding style and abilities. *So please—feel free to poke around the repo* (and don't miss the screenshots at the bottom of this README.) To learn more about **Dalilah**, you can visit the [official page](https://cmillerco.com/dalilah) on my website.
