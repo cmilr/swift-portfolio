@@ -9,9 +9,12 @@ You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swi
 
 Ok, ***I know you're busy***, so thanks again for stopping by—I appreciate your time and interest. 
 
+— Cary Miller
+
 ## Contact Info:
 
 - Email: cary.a.miller@gmail.com
+- Website: [cmillerco.com](https://cmillerco.com)
 - LinkedIn: [carymiller](https://www.linkedin.com/in/carymiller/)
 - Twitter: [@carycodes](https://twitter.com/carycodes)
 
