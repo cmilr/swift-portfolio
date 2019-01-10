@@ -1,5 +1,5 @@
 # Hello!
-*Thanks for taking the time to stop by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; right now it contains the majority of source code for my iOS app **Dalilah**—a smart personal assistant for musicians, students, and other life-long learners. The app is written entirely in **Swift**.
+*Thanks for taking the time to stop by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; right now it contains the majority of source code for my iOS app **Dalilah**—a smart personal assistant for musicians, students, and other life-long learners. The app is written entirely in **Swift**, and includes a suite of unit and UI tests. As a solo developer, I rely heavily on **Fastlane** to speed up my development and deployment process, and you can find my Fastfile here as well.
 
 Due to Dalilah's commercial nature—and nearness to release—I've chosen to make the master repo private, but hopefully I've left enough here to adequately illustrate my coding style and abilities. *So please—feel free to poke around the repo* (and don't miss the screenshots at the bottom of this README.) To learn more about **Dalilah**, you can visit the [official page](https://cmillerco.com/dalilah) on my website.
 
