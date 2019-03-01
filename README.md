@@ -1,5 +1,15 @@
 # Hello!
-*Thanks for taking the time to stop by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; right now it contains the majority of source code for my iOS app **Dalilah**—a smart personal assistant for musicians, students, and other life-long learners. The app is written entirely in **Swift**, and includes a suite of unit and UI tests. As a solo developer, I find myself relying heavily on **Fastlane** to speed up my deployment process, so I've included my Fastfile here as well.
+*Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around.
+
+# DarkRoom
+DarkRoom is a take-home project I recently completed as part of the interview process for an iOS Developer role. The basic requirements for the app were that it display ten currently showing movies and ten upcoming movies, using data from [themoviedb.org](https://www.themoviedb.org/)'s REST api. Choice of design and UI elements were left open to the developer.
+
+I'm quite happy with the final product—it was built entirely in Swift, no external dependencies were used, the UI is attractive, animates smoothly, and is easy to navigate, and perhaps most importantly, the code is clean and easy to read.
+
+<img src="Images/Darkroom.gif" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">
+
+
+right now it contains the majority of source code for my iOS app **Dalilah**—a smart personal assistant for musicians, students, and other life-long learners. The app is written entirely in **Swift**, and includes a suite of unit and UI tests. As a solo developer, I find myself relying heavily on **Fastlane** to speed up my deployment process, so I've included my Fastfile here as well.
 
 Due to **Dalilah's** commercial nature—and nearness to release—I've recently chosen to make the master repo private, but I believe I've left enough here to adequately illustrate my coding style and abilities. *So please—feel free to poke around the repo* (and the screenshots at the bottom of this README.) If you'd like to learn more about **Dalilah**, you can visit the [official page](https://cmillerco.com/dalilah) on my website. And if you're feeling really adventurous, you're welcome to join the beta test while you're there!
 
