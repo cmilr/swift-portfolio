@@ -9,7 +9,7 @@ I'm quite happy with the final product—it was built entirely in Swift, no exte
 <img src="Images/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Darkroom.gif" width="250" align="center" title="Darkroom GIF"><br><br>
 
 # Dalilah
-[Dalilah](https://cmillerco.com/dalilah)—the smart personal assistant for musicians—is my first commercial iOS product. The app makes it exceedingly easy to keep up with your learning goals. Dalilah is written entirely in Swift, contains no external dependencies, and makes extensive use of Core Data to manage data persistence. It also makes use of my library [CoreRestore](https://github.com/cmilr/core-restore), which allows for easy Core Data backup and restore functionality from ***within*** the app.
+[Dalilah](https://cmillerco.com/dalilah)—the smart personal assistant for musicians—is my first commercial iOS product. The app makes it exceedingly easy for musicians to keep up with their learning goals. Dalilah is written entirely in Swift, contains no external dependencies, and makes extensive use of Core Data to manage data persistence. It also makes use of my library [CoreRestore](https://github.com/cmilr/core-restore), which allows for easy Core Data backup and restore functionality from ***within*** the app.
 
 You can read more about Dalilah by visiting the [official page](https://cmillerco.com/dalilah) on my website. If you're feeling really adventurous, you're welcome to join the beta test while you're there!
 
