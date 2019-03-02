@@ -9,7 +9,7 @@ I'm quite happy with the final product—it was built entirely in Swift, no exte
 <img src="Images/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Darkroom.gif" width="250" align="center" title="Darkroom GIF">
 
 # Dalilah
-**Dalilah**—a smart personal assistant for musicians—is my first commercial iOS app. Dalilah makes you a better musician by helping you practice smarter, not harder. The app is written entirely in Swift, and contains no external dependencies.
+**Dalilah**—the smart personal assistant for musicians—is my first commercial iOS product. The app makes it exceedingly easy to keep up with your learning goals. Dalilah is written entirely in Swift, contains no external dependencies, and makes extensive use of Core Data to manage data persistence.
 
 You can read more about Dalilah by visiting the [official page](https://cmillerco.com/dalilah) on my website. If you're feeling really adventurous, you're welcome to join the beta test while you're there!
 
