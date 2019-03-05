@@ -6,7 +6,7 @@
 
 I'm quite happy with the final product—it was built entirely in Swift, no external dependencies were used, and the UI is attractive and animates smoothly. Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
 
-<img src="Images/darkroom/DarkRoomMaster-v3.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/darkroom/DarkRoomDetail-v2.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/darkroom/Darkroom-demo-v2.gif" width="250" align="center" title="Darkroom GIF"><br><br>
+<img src="images/darkroom/DarkRoomMaster-v3.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail-v2.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo-v2.gif" width="250" align="center" title="Darkroom GIF"><br><br>
 
 # Dalilah
 [Dalilah](https://cmillerco.com/dalilah)—the smart personal assistant for musicians—is my first commercial iOS product. The app makes it exceedingly easy for musicians to keep up with their learning goals. Dalilah is written entirely in Swift, contains no external dependencies, and makes extensive use of Core Data to manage data persistence. It also makes use of my library [CoreRestore](https://github.com/cmilr/core-restore), which allows for easy Core Data backup and restore functionality from ***within*** the app.
