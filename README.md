@@ -18,7 +18,7 @@ You can read more about Dalilah by visiting the [official page](https://cmillerc
 <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X">
 
 # Longboard
-[Longboard](https://github.com/cmilr/longboard) is a library that makes onboarding for iOS apps as easy as a drag and a drop. Add a few lines of code for customization, feed it some content, and your onboarding is ready to go. Longboard is lightweight and written entirely in Swift.
+[Longboard](https://github.com/cmilr/longboard) is a library that makes onboarding for iOS apps as easy as a drag and drop. Add a few lines of code for customization, feed it some content, and your onboarding is ready to go. Longboard is lightweight and written entirely in Swift.
 
 <img src="images/longboard/longboard-demo-ipad-air.gif" width="350" title="Longboard iOS Onboarding">
 
