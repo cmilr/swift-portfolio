@@ -16,11 +16,10 @@ You can read more about Dalilah by visiting the [official page](https://cmillerc
 <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X">
 
 # Longboard
-[Longboard](https://cmillerco.com/longboard) is a library that makes onboarding for iOS apps as easy as a drag and a drop. Add a few lines of code for customization, feed it some content, and your onboarding is ready to go. Longboard is lightweight and written entirely in Swift.
+[Longboard](https://github.com/cmilr/longboard) is a library that makes onboarding for iOS apps as easy as a drag and a drop. Add a few lines of code for customization, feed it some content, and your onboarding is ready to go. Longboard is lightweight and written entirely in Swift.
 
 <img src="images/longboard/longboard-demo-ipad-air.gif" width="350" title="Longboard iOS Onboarding">
 
-longboard-demo-ipad-air.gif
 <!-- # Longboard
 If you'd like to see what else I've been working on, I recommend taking a look at [**Swift CoreRestore**](https://github.com/cmilr/swift-core-restore)—a library I've recently created for adding easy Core Data **backup and restore** functionality to iOS apps. CoreRestore is a work-in-progress, but I'm proud of its simple API, light-weight nature, and the fact that it solves a problem many Swift developers experience.
 
