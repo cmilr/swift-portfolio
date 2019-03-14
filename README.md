@@ -26,20 +26,12 @@ I'm quite happy with the final product—it was built entirely in Swift, no exte
   <img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF">
 </p>
 
-
-# Longboard
-[Longboard](https://github.com/cmilr/longboard) is a library that makes onboarding for iOS apps as easy as a drag and drop. Add a few lines of code for customization, feed it some content, and your onboarding is ready to go. Longboard is lightweight and written entirely in Swift.
-
-<p align="center">
-    <img src="images/longboard/longboard-demo-ipad-air.gif" width="350" title="Longboard iOS Onboarding">
-</p>
 <!-- # Longboard
-If you'd like to see what else I've been working on, I recommend taking a look at [**Swift CoreRestore**](https://github.com/cmilr/swift-core-restore)—a library I've recently created for adding easy Core Data **backup and restore** functionality to iOS apps. CoreRestore is a work-in-progress, but I'm proud of its simple API, light-weight nature, and the fact that it solves a problem many Swift developers experience.
+If you'd like to see what else I've been working on, I recommend taking a look at [**Swift CoreRestore**](https://github.com/cmilr/swift-core-restore)—a library I've recently created for adding easy Core Data **backup and restore** functionality to iOS apps. CoreRestore is a work-in-progress, but I'm proud of its simple API, light-weight nature, and the fact that it solves a problem many Swift developers experience. -->
 <!-- 
 You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swift-datekit), my library for easily mocking dates and times in Xcode unit and UI tests. Don't be fooled by its small size—**DateKit** is a compact, highly effective set of methods and classes for testing date-critical iOS apps. -->
 
-***I know you're busy***, so thanks again for stopping by—I appreciate your time and interest.  -->
-Thanks for stopping by!
+Thanks again for stopping by—I appreciate your time and interest.
 # Contact Info:
 
 - Email: cary@cmillerco.com
