@@ -23,14 +23,17 @@ I'm quite happy with the final product—it was built entirely in Swift, no exte
 <!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-  <img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF">
+  <img src="images/darkroom/Darkroom-demo.gif" width="260" align="center" title="Darkroom GIF">
 </p>
 
 <!-- # Longboard
 If you'd like to see what else I've been working on, I recommend taking a look at [**Swift CoreRestore**](https://github.com/cmilr/swift-core-restore)—a library I've recently created for adding easy Core Data **backup and restore** functionality to iOS apps. CoreRestore is a work-in-progress, but I'm proud of its simple API, light-weight nature, and the fact that it solves a problem many Swift developers experience. -->
 <!-- 
 You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swift-datekit), my library for easily mocking dates and times in Xcode unit and UI tests. Don't be fooled by its small size—**DateKit** is a compact, highly effective set of methods and classes for testing date-critical iOS apps. -->
-
+<br>
+<br>
+<br>
+<br>
 Thanks again for stopping by—I appreciate your time and interest.
 # Contact Info:
 
