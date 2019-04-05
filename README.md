@@ -2,6 +2,11 @@
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
+# Sakura
+Sakura is an iOS word-guessing game written in Swift, which I recently built as a take-home project for a job interview. While it's still too early to say whether I'll receive that offer, I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture.
+<p align="center">
+<img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess">
+</p>
 
 # Dalilah
 [Dalilah](https://cmillerco.com/dalilah)—the smart personal assistant for musicians—is my first commercial iOS product. The app makes it exceedingly easy for musicians to keep up with their learning goals. Dalilah is written entirely in Swift, contains no external dependencies, and makes extensive use of Core Data to manage data persistence. It also makes use of my library [CoreRestore](https://github.com/cmilr/core-restore), which allows for easy Core Data backup and restore functionality from ***within*** the app.
