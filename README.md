@@ -29,7 +29,7 @@ You can read more about Dalilah by visiting the [official page](https://cmillerc
 <!-- <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-02DetailScreen_framed.png" width="250" title="iPhone X">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/iPhone X-03SettingsScreen_framed.png" width="250" title="iPhone X"> -->
 
 <p align="center">
-  <img src="images/dalilah/iPhone X-01MasterScreen_framed.png" width="280" title="iPhone X">
+<img src="images/dalilah/DalilahMaster.png" width="230"  title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/DalilahDetail.png" width="230" title="Dalilah">
 </p>
 
 
