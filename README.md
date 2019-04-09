@@ -17,7 +17,7 @@ I'm quite happy with the final product—it was built entirely in Swift, no exte
 <!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="images/darkroom/DarkRoomMaster.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoom-demo.gif" width="228" title="DarkRoom">
+<img src="images/darkroom/DarkRoomMaster.png" width="230"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="230" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="228" title="DarkRoom">
 </p>
 
 
