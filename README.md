@@ -46,5 +46,4 @@ You might also be interested in [**Swift DateKit**](https://github.com/cmilr/swi
 
 - Email: cary@cmillerco.com
 - LinkedIn: [carymiller](https://www.linkedin.com/in/carymiller/)
-- Twitter: [@carycodes](https://twitter.com/carycodes)
 - Website: [cmillerco.com](https://cmillerco.com)
